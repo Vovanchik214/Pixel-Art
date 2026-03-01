@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #37CF9F;
+}
+
+h1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+footer {
+    background-color: #37CF9F;
+}
+
+main p {
+    padding-left: 75px;
+}
+
+img {
+    margin-left:30px;
+}
+
+main {
+    background-color: antiquewhite;
+}
+
+.sorok {
+    text-align: center;
+    padding-left: 10px;
+    margin-top: 8px;
+}
+
+.sveti {
+    padding-left: 60px;
+}
+
+.rozi {
+    padding-left: 110px;
+}
